@@ -1,1 +1,0 @@
-import{d as o,I as n,c,e as r,h as e,t,p as a}from"./index-C6Qud-PT.js";const _={class:"card content-box"},p=e("span",{class:"text"},"我是 ProTable 详情页",-1),l={class:"text"},i={class:"text"},x=o({__name:"tableDetail",setup(d){const s=n();return(u,m)=>(c(),r("div",_,[p,e("span",l,"params:"+t(a(s).params),1),e("span",i,"query:"+t(a(s).query),1)]))}});export{x as default};
